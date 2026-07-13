@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# App data (machine-specific / sensitive — do NOT commit)
+chroma_db/
+users.db
+server.log
+
+# OS
+.DS_Store
